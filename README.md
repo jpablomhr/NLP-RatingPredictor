@@ -8,15 +8,6 @@
 
 Este proyecto realiza un análisis completo de las reseñas del libro **"El Hombre en Busca de Sentido"** en Buscalibre. Incluye la extracción automatizada de reseñas y calificaciones con la librerá Selenium, un análisis de sentimientos utilizando **NLTK**, y un modelo de **Random Forest Regression** para predecir las calificaciones basadas en las reseñas.
 
----
-
-## **📑 Tabla de Contenidos**
-1. [Descripción del Proyecto](#-descripción-del-proyecto)
-2. [Estructura del Proyecto](#-estructura-del-proyecto)
-6. [Resultados](#-resultados)
-8. [Contribución](#-contribución)
-9. [Licencia](#-licencia)
-10. [Contacto](#-contacto)
 
 ---
 
